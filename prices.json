@@ -1,0 +1,4 @@
+{
+  "claude-sonnet-4-5": {"input": 3, "output": 15, "cache_creation": 3.75, "cache_read": 0.3},
+  "claude-opus-4-1": {"input": 15, "output": 75, "cache_creation": 18.75, "cache_read": 1.5}
+}
